@@ -1,10 +1,9 @@
-### Hi there ![image](https://user-images.githubusercontent.com/37587581/109633481-6c505d80-7b48-11eb-834f-57250922d329.png)
+### Hi there :bangbang:
 
 
-- 🔭 I’m currently working on [obj-valid](https://github.com/Iicytower/obj-valid)
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+- 🔭 I’m currently working on [obj-valid](https://github.com/Iicytower/obj-valid).
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/).
 - 📫 How to reach me: Send me e-mail. Adress is in profile.
-- 😄 Pronouns: 011010100110000101110110011000010111001101100011011100100110100101110000011101000000110100001010
-
-
+- 😄 Language: 011000100111011101100010011101000110010001110011011010100111001001110101.
+- :tada: Fun fact: I would like to make an [arduino](https://www.arduino.cc/) based robot and I will definitely do it someday.
 
