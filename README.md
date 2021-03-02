@@ -12,4 +12,3 @@
 - :computer: Technologies and libraries: `Javascript and Typescript`, `Node.js`, `Express.js`, `MySQL`, `MongoDB`, `Sequelize`, `Mongoose`, `JWT`, `Passport`, `REST`, `Linux`, `Git/GitHub`, `HTML`, `CSS`, `SASS`, `Docker`, `bash/zsh`
 - :closed_book: Languages: Polish(native), Russian(native), English(enough to read and write documentation +)
 - Currently I'm actively looking for my first job as Node.j developer. 
-- 
