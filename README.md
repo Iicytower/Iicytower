@@ -6,4 +6,4 @@
 - 📫 How to reach me: Send me e-mail. Adress is in profile.
 - 😄 Language: 011000100111011101100010011101000110010001110011011010100111001001110101.
 - :tada: Fun fact: I would like to make an [Arduino](https://www.arduino.cc/) based robot and I will definitely do it someday.
-- :thumbsub: Love in JS: `null` value is absolutely awesome and possibility to use dynamic typing(:JS:) and static typing(:TS:)
+- :thumbsub: Love in JS: `null` value is absolutely awesome and possibility to use dynamic typing(:javascript:) and static typing(:typescript:)
