@@ -17,4 +17,4 @@
 - :closed_book: Languages: Polish(native), Russian(very good), English(enough to read and write documentation +)
 - Currently I'm actively looking for my first job as a Node.js developer. 
 
-[I started writing a blog about the basics of JS programming](https://podstawynode.blogspot.com/)
+<!--[I started writing a blog about the basics of JS programming](https://podstawynode.blogspot.com/) -->
