@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [obj-valid](https://github.com/Iicytower/obj-valid).
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/).
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/) and [NestJS](https://nestjs.com/).
 - 📫 How to reach me: Send me an e-mail. Address is in profile.
 - 😄 Main language: 011000100111011101100010011101000110010001110011011010100111001001110101. 
   <details>
