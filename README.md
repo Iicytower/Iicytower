@@ -17,6 +17,4 @@
 - :computer: Technologies and libraries: `Javascript` `Typescript` `Node.js` `Express.js` `MySQL` `MongoDB` `Sequelize` `Mongoose` `JWT` `Passport` `REST` `Linux` `Git/GitHub` `HTML` `CSS` `SASS` `Docker` `bash/zsh`
   * I know a bit `NestJS` `TypeORM`
 - :closed_book: Languages: Polish(native), Russian(very good), English(enough to read and write documentation +)
-- Currently I'm actively looking for my first job as a Node.js developer. 
 
-<!--[I started writing a blog about the basics of JS programming](https://podstawynode.blogspot.com/) -->
