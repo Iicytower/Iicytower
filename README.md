@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently look for new experiences and challenges. 
-- 🌱 I’m currently learning about software architecture and prompt engineering.
+- 🌱 I’m currently learning about prompt engineering.
 - 📫 How to reach me: Send me an e-mail. Address is in profile.
 - 😄 Main language: 011000100111011101100010011101000110010001110011011010100111001001110101. 
   <details>
