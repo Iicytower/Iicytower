@@ -4,11 +4,7 @@
 - 🔭 I’m currently look for new experiences and challenges. 
 - 🌱 I’m currently learning about prompt engineering.
 - 📫 How to reach me: Send me an e-mail. Address is in profile.
-- 😄 Main language: 011000100111011101100010011101000110010001110011011010100111001001110101. 
-  <details>
-    <summary>Hint</summary>
-    b=a
-  </details>
+- 😄 Main language: `++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++.>---.+++++++++++++++++++++.---------------------.++++++++++++++++++.----------------.+++++++++++++++.---------.+++++++.++++.`. 
 - :tada: Curiosity: I would like to make an [Arduino](https://www.arduino.cc/) based robot and I will definitely do it someday.
 - :+1: Love in JS: Possibility to use dynamic typing(js) and static typing(ts) and the universality of this language.
 <!-- - :-1: Not love in JS: `'` and `"`. One way to declare strings is enough, but backward compatibility does not allow to delete it :cry:.  -->
