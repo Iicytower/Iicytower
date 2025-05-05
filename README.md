@@ -1,5 +1,6 @@
 ### Hi there :bangbang:
 
+A few things about me
 
 - 😄 Favorite language: `++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++.>---.+++++++++++++++++++++.---------------------.++++++++++++++++++.----------------.+++++++++++++++.---------.+++++++.++++.`. 
 - :+1: Love in JS: Possibility to use dynamic typing(js) and static typing(ts) and the universality of this language.
