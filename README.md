@@ -4,7 +4,7 @@ A few things about me
 
 - 😄 Favorite language: `++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++.>---.+++++++++++++++++++++.---------------------.++++++++++++++++++.----------------.+++++++++++++++.---------.+++++++.++++.`. 
 - :+1: Love in JS: Possibility to use dynamic typing(js) and static typing(ts) and the universality of this language.
-- :computer: Technologies, libraries, practices: `Javascript` `Typescript` `Node.js` `Express.js` `NestJS` `SQL` `MongoDB` `Mongoose` `JWT` `REST` `GraphQL` `Linux` `Docker` `bash` `Git` `HTML` `CSS` `Clean Architecture` `RabbitMQ` `Prompt engneering` `Design Patterns` `KISS` `DRY` `SOLID` and some more
+- :computer: Technologies, libraries, practices: `Javascript` `Typescript` `Node.js` `Express.js` `NestJS` `SQL` `MongoDB` `Mongoose` `JWT` `REST` `GraphQL` `Linux` `Docker` `bash` `Git` `HTML` `CSS` `Clean Architecture` `RabbitMQ` `Prompt engneering` `Design Patterns` `KISS` `DRY` `SOLID` `Postman`  and some more
 - 🎉 Curiosity: One day, I want to master JavaScript and TypeScript
 - :closed_book: Languages: Polish(native), Russian(fluent), English(comunicative)
 - :alien: In free time I like: Historical reconstruction (early Middle Ages), chess, hiking, board and video games, cybersecurity, everything related to a forest
