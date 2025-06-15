@@ -10,4 +10,4 @@ A few things about me
 - :alien: In free time I like: Historical reconstruction (early Middle Ages), chess, hiking, board and video games, cybersecurity, everything related to a forest
 - 📫 How to reach me: Send me an e-mail. The address is in the profile, or PM me on [LinkedIn](https://www.linkedin.com/in/szymon-f-8b30a4171/)
 
-I'm currently working on [this project](https://github.com/Iicytower/openChat).
+I'm currently working on [this project](https://github.com/Iicytower/voice-ai-assistant).
